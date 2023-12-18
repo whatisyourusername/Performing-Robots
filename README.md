@@ -4,17 +4,17 @@ Yunho & Akhat Robot [Cody] Journal
 
 Stage 1 - Basic Robot Design
 
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/BMO.png" width = "250" height = "250">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/BMO.png" width = "270" height = "250">
 
 Stage 2 - Planning Robot Functionalities
 
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/2.jpg" width = "250" height = "250">
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/1.jpg" width = "250" height = "250">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/2.jpg" width = "250" height = "300">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/1.jpg" width = "250" height = "300">
 
 Stage 3 - Robot Base Build
 
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/bottom.jpg" width = "250" height = "250">
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/top.jpg" width = "250" height = "250">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/bottom.jpg" width = "300" height = "250">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/top.jpg" width = "300" height = "250">
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/Soldering.jpg">
 Stage 4 - Robot Base Movement Programming
