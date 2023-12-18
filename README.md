@@ -47,7 +47,7 @@ Stage 8 - Decoration & Adding Details (Sounds editing)
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1840.jpg" width = "250" height = "350">
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1841.jpg" width = "250" height = "350">
-<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1842jpg" width = "250" height = "350">
+<img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1842.jpg" width = "250" height = "350">
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/11.jpg" width = "250" height = "200">
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/12.jpg" width = "250" height = "200">
