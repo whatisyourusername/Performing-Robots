@@ -1,22 +1,32 @@
 # Performing-Robots
 
-Yunho & Akhat Robot [Cody] Journal
+#Yunho & Akhat Robot [Cody] Journal
 
-Stage 1 - Basic Robot Design
+##Stage 1 - Basic Robot Design
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/BMO.png" width = "270" height = "250">
+**Draft of the outlook of the robot**
 
-Stage 2 - Planning Robot Functionalities
+##Stage 2 - Planning Robot Functionalities
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/2.jpg" width = "250" height = "300">
+
+A robot that has a window that can showoff the inner fancy design. Slightly arrogant, but also highly related to his job as a youtuber.
+
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/1.jpg" width = "250" height = "300">
 
-Stage 3 - Robot Base Build
+Possible way of displaying face using LEDs as pixels. Later implemented into Neopixels.
+
+##Stage 3 - Robot Base Build
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/bottom.jpg" width = "300" height = "250">
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/top.jpg" width = "300" height = "250">
 
+We concentrated on the balance of the wheels throughout the whole robot base. The front and back wheel has different height so that they gain better movements when the robot is moving on a bumpy land. However, the difference of height is minimize to make sure the robot does not fall down by the momentum of the movement after it is fully built.
+
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/Soldering.jpg" width = "250" height = "400">
+**Image of a soldering done to connect motor wires.**
+
 Stage 4 - Robot Base Movement Programming
 
 [Motor Movement Test Video](https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Videos/MotorMovementTest.mp4)
