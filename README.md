@@ -1,21 +1,19 @@
 # Performing-Robots
-Yunho Lee's Repository
 
-Response to entangledBook_Machines_Mechanicals
+Yunho & Akhat Robot [Cody] Journal
 
-What does it mean by lively-ness of Automata? The way how it looks? The way how it behaves?
-Salter explores the long-time of human trying to create "lively" robots.
+Stage 1 - Basic Robot Design
 
-What gives lively-ness to robots, and what does it mean by lively-ness?
-In order to discuss about lively-ness of something that does not have "life",
-we have to focus on the HUMAN point of view, the anthromorphic way.
+Stage 2 - Planning Robot Functionalities
 
-How do we know something is alive or not? We learn the behaviors, outlooks, and so many information 
-to understand what are living creatures around us. In order to provide lively-ness to robots,
-we need a deep understanding of the vast information that defines "alive" in our point of view.
+Stage 3 - Robot Base Build
 
-Since, everyone has different way of thinking, so does the "lively-ness" of robots.
-Some might think an automata is lively, some might not.
+Stage 4 - Robot Base Movement Programming
 
-Maybe the way to give lively-ness means to convince as many audience as possible that the
-robot is alive.
+Stage 5 - Connecting Servo to the Base & Servo Movement for the Window
+
+Stage 6 - Building Sides
+
+Stage 7 - Attaching NeoPixels & Programming
+
+Stage 8 - Decoration & Adding Details (Sounds editing)
