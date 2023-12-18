@@ -1,13 +1,13 @@
 # Performing-Robots
 
-#Yunho & Akhat Robot [Cody] Journal
+# Yunho & Akhat Robot [Cody] Journal
 
-##Stage 1 - Basic Robot Design
+## Stage 1 - Basic Robot Design
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/BMO.png" width = "270" height = "250">
 **Draft of the outlook of the robot**
 
-##Stage 2 - Planning Robot Functionalities
+## Stage 2 - Planning Robot Functionalities
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/2.jpg" width = "250" height = "300">
 
@@ -17,7 +17,7 @@ A robot that has a window that can showoff the inner fancy design. Slightly arro
 
 Possible way of displaying face using LEDs as pixels. Later implemented into Neopixels.
 
-##Stage 3 - Robot Base Build
+## Stage 3 - Robot Base Build
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/bottom.jpg" width = "300" height = "250">
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/top.jpg" width = "300" height = "250">
@@ -27,7 +27,7 @@ We concentrated on the balance of the wheels throughout the whole robot base. Th
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/Soldering.jpg" width = "250" height = "400">
 **Image of a soldering done to connect motor wires.**
 
-##Stage 4 - Robot Base Movement Programming
+## Stage 4 - Robot Base Movement Programming
 
 [Motor Movement Test Video](https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Videos/MotorMovementTest.mp4)
 
@@ -179,11 +179,11 @@ void loop() {
 }
 ```
 
-##Stage 5 - Connecting Servo to the Base
+## Stage 5 - Connecting Servo to the Base
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/4.jpg" width = "250" height = "400">
 
-##Stage 6 - Building Sides
+## Stage 6 - Building Sides
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/7(3).jpg" width = "250" height = "400">
 Used Several L-Shape Brackets to gain a rigit connection between three sides and the base.
@@ -195,13 +195,13 @@ Hole in the front wood for the windows.
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/7(1).jpg" width = "250" height = "400">
 
-##Stage 7 - Attaching NeoPixels & Servo and Neopixels Programming
+## Stage 7 - Attaching NeoPixels & Servo and Neopixels Programming
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/7.jpg" width = "250" height = "400">
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1484.jpg" width = "250" height = "400">
 
-###Code for Servo & Neopixels Demo
+### Code for Servo & Neopixels Demo
 ```
 // NeoPixel Ring simple sketch (c) 2013 Shae Erisson
 // Released under the GPLv3 license to match the rest of the
@@ -446,11 +446,13 @@ void printDirectory(File dir, int numTabs) {
 }
 ```
 
-###Code for NeoPixel & Servo + Sound States for the Final Show Can be Found
+### Code for NeoPixel & Servo + Sound States for the Final Show Can be Found
 [here](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023/tree/2af7961d39b709f7926e11102dbb450ea78b6f01/code)
 
 
-Stage 8 - Decoration & Adding Details (Sounds editing)
+### Stage 8 - Decoration & Adding Details (Sounds editing)
+
+Used Adobe Audition to Improve sound qualities using FFT Filter and Sound compression
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1840.jpg" width = "250" height = "350">
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/IMG_1841.jpg" width = "250" height = "350">
