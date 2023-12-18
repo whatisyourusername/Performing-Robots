@@ -18,7 +18,7 @@ Stage 3 - Robot Base Build
 
 <img src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Images/Soldering.jpg" width = "250" height = "400">
 Stage 4 - Robot Base Movement Programming
-<vid src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Videos/MotorMovementTest.mp4">
+<video src="https://github.com/whatisyourusername/Performing-Robots/blob/7624ed4fee2550eaf134d5c22e537781540254ac/Videos/MotorMovementTest.mp4">
 Stage 5 - Connecting Servo to the Base & Servo Movement for the Window
 
 Stage 6 - Building Sides
